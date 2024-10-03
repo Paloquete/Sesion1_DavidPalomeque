@@ -1,4 +1,36 @@
 [{
+  "file": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Pilas\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Pilas",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\EstructurasDeDatos\\Pilas\\main.cpp -o C:\\Users\\david\\Documents\\EstructurasDeDatos\\Pilas\\main.cpp.o  -I. -I.  -gdwarf-2  -Wall  -O0"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Pilas\\NodoPila.hpp",
+  "directory": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Pilas",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\EstructurasDeDatos\\Pilas\\NodoPila.hpp -o C:\\Users\\david\\Documents\\EstructurasDeDatos\\Pilas\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -Wall  -O0"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Pilas\\Pila.hpp",
+  "directory": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Pilas",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\EstructurasDeDatos\\Pilas\\Pila.hpp -o C:\\Users\\david\\Documents\\EstructurasDeDatos\\Pilas\\Pila.hpp.o  -I. -I.  -gdwarf-2  -Wall  -O0"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Pilas\\NodoPila.cpp",
+  "directory": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Pilas",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\EstructurasDeDatos\\Pilas\\NodoPila.cpp -o C:\\Users\\david\\Documents\\EstructurasDeDatos\\Pilas\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -Wall  -O0"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Pilas\\Pila.cpp",
+  "directory": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Pilas",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\EstructurasDeDatos\\Pilas\\Pila.cpp -o C:\\Users\\david\\Documents\\EstructurasDeDatos\\Pilas\\Pila.cpp.o  -I. -I.  -gdwarf-2  -Wall  -O0"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Ejemplo13\\Persona.hpp",
+  "directory": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\EstructurasDeDatos\\Ejemplo13\\Persona.hpp -o C:\\Users\\david\\Documents\\EstructurasDeDatos\\Ejemplo13\\Persona.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Ejemplo13\\Persona.cpp",
+  "directory": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\EstructurasDeDatos\\Ejemplo13\\Persona.cpp -o C:\\Users\\david\\Documents\\EstructurasDeDatos\\Ejemplo13\\Persona.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Ejemplo13\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\EstructurasDeDatos\\Ejemplo13\\main.cpp -o C:\\Users\\david\\Documents\\EstructurasDeDatos\\Ejemplo13\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Ejemplo12\\main.cpp",
   "directory": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Ejemplo12",
   "command": "clang++ -c C:\\Users\\david\\Documents\\EstructurasDeDatos\\Ejemplo12\\main.cpp -o C:\\Users\\david\\Documents\\EstructurasDeDatos\\Ejemplo12\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
@@ -22,6 +54,26 @@
   "file": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\EjemploPasoDeArgumentos\\main.cpp",
   "directory": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\EjemploPasoDeArgumentos",
   "command": "clang++ -c C:\\Users\\david\\Documents\\EstructurasDeDatos\\EjemploPasoDeArgumentos\\main.cpp -o C:\\Users\\david\\Documents\\EstructurasDeDatos\\EjemploPasoDeArgumentos\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Colas\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Colas",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\EstructurasDeDatos\\Colas\\main.cpp -o C:\\Users\\david\\Documents\\EstructurasDeDatos\\Colas\\main.cpp.o  -I. -I.  -gdwarf-2  -Wall  -O0"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Colas\\Cola.hpp",
+  "directory": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Colas",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\EstructurasDeDatos\\Colas\\Cola.hpp -o C:\\Users\\david\\Documents\\EstructurasDeDatos\\Colas\\Cola.hpp.o  -I. -I.  -gdwarf-2  -Wall  -O0"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Colas\\NodoCola.hpp",
+  "directory": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Colas",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\EstructurasDeDatos\\Colas\\NodoCola.hpp -o C:\\Users\\david\\Documents\\EstructurasDeDatos\\Colas\\NodoCola.hpp.o  -I. -I.  -gdwarf-2  -Wall  -O0"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Colas\\Cola.cpp",
+  "directory": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Colas",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\EstructurasDeDatos\\Colas\\Cola.cpp -o C:\\Users\\david\\Documents\\EstructurasDeDatos\\Colas\\Cola.cpp.o  -I. -I.  -gdwarf-2  -Wall  -O0"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Colas\\NodoCola.cpp",
+  "directory": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Colas",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\EstructurasDeDatos\\Colas\\NodoCola.cpp -o C:\\Users\\david\\Documents\\EstructurasDeDatos\\Colas\\NodoCola.cpp.o  -I. -I.  -gdwarf-2  -Wall  -O0"
  }, {
   "file": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Ejemplo06\\main.cpp",
   "directory": "C:\\Users\\david\\Documents\\EstructurasDeDatos\\Ejemplo06",
