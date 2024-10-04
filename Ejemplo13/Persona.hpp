@@ -11,7 +11,7 @@ public:
     int getEdad();
     bool esMujer();
     void setEdad(int edad);
-    void mostar();
+    void mostrar();
 
 private:
     int edad;

@@ -19,7 +19,7 @@ int main(int argc, char **argv)
 		cout<<a[i]<<" ";
 		cout<< endl<<endl;
 	}
-	for(inti=0;i<n;++i){
+	for(int i=0;i<n;++i){
 		Persona* p=new Persona(a[i]);
 		p->mostrar();
 	}
